@@ -1,1 +1,1 @@
-# How-many-RedSquirrels-in-CentralPark
+# How-many-ColorSquirrels-in-CentralPark
